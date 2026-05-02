@@ -1,4 +1,8 @@
 ### This is my website ###
+body {
+  background-color: #F5FFFA; 
+}
+
 I'm using it to practice making websites with GitHub 
 
 This site was built using [GitHub Pages](https://pages.github.com/).
