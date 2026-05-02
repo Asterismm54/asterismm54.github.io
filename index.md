@@ -1,7 +1,5 @@
 ### This is my website ###
 
-The background color is `#F5FFFA`
-
 I'm using it to practice making websites with GitHub 
 
 This site was built using [GitHub Pages](https://pages.github.com/).
