@@ -1,7 +1,6 @@
 ### This is my website ###
-body {
-  background-color: #F5FFFA; 
-}
+
+The background color is `#F5FFFA`
 
 I'm using it to practice making websites with GitHub 
 
