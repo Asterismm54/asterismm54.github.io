@@ -1,5 +1,7 @@
 ### This is my website ###
 
+[About Me](about.md)
+
 I'm using it to practice making websites with GitHub 
 
 This site was built using [GitHub Pages](https://pages.github.com/).
