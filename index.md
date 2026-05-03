@@ -1,3 +1,8 @@
+<style>
+  body {
+    background-color: #F5F5F5; 
+  }
+
 ### This is my website ###
 
 I'm using it to practice making websites with GitHub 
