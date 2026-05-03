@@ -1,4 +1,5 @@
-### This is my website ### ..............................                                                                                [About Me](about.md)
+### This is my website ###                                                                               
+[About Me](about.md)
 
 I'm using it to practice making websites with GitHub 
 
