@@ -36,6 +36,10 @@ https://cuug.ab.ca/
 
 www.savoirfairelinux.ca
 
+-Toronto Postgres User Group:
+
+https://www.meetup.com/toronto-postgres-user-group/
+
 -Club Framboise (dedicated to the Raspberry Pi):
 
 www.clubframboise.ca
